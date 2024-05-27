@@ -1,6 +1,6 @@
 ## [Amazing Mart Sales Analysis Dashboard](https://public.tableau.com/app/profile/sergey6435/viz/AmazingMartSalesAnalysis_17166493804030/AmazingMartSalesAnalysis)
 ### Input Data Description
-The attached excel **P1-AmazingMartEU2.xlsx** file has three tabs. Only first two are used in the dashboard development. Both tabs contain information related to orders, that have been received by the Amazing Mart. Client-related data is gathered on the first tab, **ListOfOrders**. Information about the actual content of the order is stored in the second one, **OrderBreakdown**. A preview of both tabs can be seen below.
+The attached excel file **P1-AmazingMartEU2.xlsx** has three tabs. Only first two are used in the dashboard development. Both tabs contain information related to orders, that have been received by the Amazing Mart. Client-related data is gathered on the first tab, **ListOfOrders**. Information about the actual content of the order is stored in the second one, **OrderBreakdown**. A preview of both tabs can be seen below.
 <details>
 <summary>ListOfOrders</summary>
 <img src="https://github.com/schigin/portfolio/blob/main/amazing_mart_sales/list_of_orders_data_tab_preview.png">
