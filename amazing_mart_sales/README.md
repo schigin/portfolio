@@ -13,7 +13,8 @@ The attached excel file **P1-AmazingMartEU2.xlsx** has three tabs. Only first tw
 ### Dashboard Sections Description
 <img src="https://github.com/schigin/portfolio/blob/main/amazing_mart_sales/amazing_mart_sales_analysis_dash_screenshot.png" align="center" height="500" width="670">
 The first section, which is at the top, displays annual sales data that has been aggregated by state. Total yearly sales are shown by the bubble's size. The sales amount increases with increasing radius. The colour indicates whether the profit to sales ratio of a state is positive (blue) or negative (red).
-
+<br/>
+<br/>
 Customer-level aggregated data about sales is displayed in the second part. The method of showing customers from a single state is shown in the figure below.
 
 <img src="https://github.com/schigin/portfolio/blob/main/amazing_mart_sales/amazing_mart_sales_analysis_dash_filter_screenshot.png" height="500" width="670">
