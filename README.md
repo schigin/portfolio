@@ -5,7 +5,7 @@
 
 This is the sales dashboard for Amazing Mart, a virtual store that offers furniture, office supplies, and technology goods. Their products are available for purchase in various countries in Europe. The dashboard gives the ability to examine annual sales performance at the state level within a country and provides a view of the state's situation on a customer level. Additional information can be found in the [internal readme section](https://github.com/schigin/portfolio/blob/main/amazing_mart_sales/README.md).
 
-## [2. E-Learning Data Analysis Project](https://raw.githack.com/schigin/portfolio/main/e_learning/main.html)
+## [2. E-Learning Platform - Data Analysis Project](https://raw.githack.com/schigin/portfolio/main/e_learning/main.html)
 <img src="https://github.com/schigin/portfolio/blob/main/e_learning/logo.png" height="350" width="470"/>
 
 The main objective of this project is analysis of data from an unidentified e-learning platform. The two main components of the project are **exploratary data analysis (EDA)** and **customer behaviour analysis**, which includes clusterization using **RFM Analysis**. Specific questions from the second section simulate hypothetical business requests.
