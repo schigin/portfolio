@@ -13,7 +13,7 @@ The main objective of this [project](https://github.com/schigin/portfolio/tree/m
 ## [3. A/B Test - Analysis of Experiment Results](https://raw.githack.com/schigin/portfolio/main/ab_test/main.html)
 <img src="https://github.com/schigin/portfolio/blob/main/ab_test/logo.png" height="350" width="470"/>
 
-The product's new feature testing experiment is complete. It's required to determine whether a new product feature positively influences consumer behaviour and increases revenue. This [report](https://github.com/schigin/portfolio/tree/main/ab_test) provides the analysis of the results. The trickiest part of the analysis is the presence of **abnormal data values** in one of the groups.
+The product's new feature testing experiment is complete. It's required to determine whether a new product feature positively influences consumer behaviour and increases revenue. This [project](https://github.com/schigin/portfolio/tree/main/ab_test) provides the report with the analysis of the results. The trickiest part of the analysis is the presence of **abnormal data values** in one of the groups.
 
 ## [4. Bank Customers Segmentation Dashboard](https://public.tableau.com/app/profile/sergey6435/viz/BankCustomersSegmentation_17170962710330/CustomerSegmentation)
 <img src="https://github.com/schigin/portfolio/blob/main/bank_customers_segmentation/dashboard_screenshot.png" height="500" width="670"/>
